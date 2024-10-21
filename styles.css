@@ -349,7 +349,7 @@ h4 {
     text-align: center;    
     color: #2575fc;
     background: #464646;
-    background-image: url('/images/bg5.jpg');
+    background-image: url('./images/bg5.jpg');
             background-size: cover; /* Ensures the image covers the entire background */
             background-repeat: no-repeat; /* Prevents the image from repeating */
             background-position: center center; /* Centers the image */
