@@ -79,7 +79,7 @@ nav ul li a:hover::after {
     height: 100vh;
 
     /* bg */
-    background-image: url('/images/bg4.jpg');
+    background-image: url('./images/bg4.jpg');
     background-size: cover; /* Ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center center; /* Centers the image */
@@ -161,7 +161,7 @@ h6 {
     /* text-align: left;     */
     /* color: #2529fc; */
     background: #464646;
-    background-image: url('/images/bg5.jpg');
+    background-image: url('./images/bg5.jpg');
             background-size: cover; /* Ensures the image covers the entire background */
             background-repeat: no-repeat; /* Prevents the image from repeating */
             background-position: center center; /* Centers the image */
